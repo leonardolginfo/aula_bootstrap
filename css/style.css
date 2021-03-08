@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(226, 217, 207);
+}
+
+.navbar {
+    background-color: rgb(235, 208, 176);
+}
+
+.navbar-collapse a:hover {
+    border-bottom: rgb(192, 187, 180) solid 2px;
+}
+
+.quem-somos {
+    background-color: rgb(226, 217, 207);
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#imgdestaque {
+    padding-block: 30px;
+}
+
+.parceiros {
+    background-color: rgb(192, 187, 180);
+}
+
+.servicos {
+    background-color: rgb(192, 187, 180);
+    border-top: solid 5px rgb(226, 217, 207);
+}
+
+.detasque-serviços {
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.bg-footer {
+    background-color: rgb(226, 217, 207);
+}
